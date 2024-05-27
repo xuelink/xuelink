@@ -1,5 +1,3 @@
-Hi 🇨🇦
-
 ![Xue's Github Activity](https://github-readme-stats-eight-theta.vercel.app/api?username=xuelink&theme=highcontrast&show_icons=true&include_all_commits=true&count_private=true)
 
 > [!NOTE]\
