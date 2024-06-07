@@ -1,4 +1,4 @@
-name: Generate Snake 
+name: generate animation
 
 on:
   # run automatically every 24 hours
@@ -12,6 +12,8 @@ on:
   push:
     branches:
     - master
+    
+  
 
 jobs:
   generate:
